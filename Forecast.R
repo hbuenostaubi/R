@@ -1,4 +1,4 @@
-# options(repos="https://CRAN.R-project.org")  ### damn firewall (ctrk+Shift+C)
+# options(repos="https://CRAN.R-project.org")  ### firewall (ctrk+Shift+C)
 # install.packages("astsa", dependencies = T);install.packages("forecast", dependencies = T);install.packages("lubridate",dependencies = T)
 library(astsa);library(forecast);library(lubridate)
 
